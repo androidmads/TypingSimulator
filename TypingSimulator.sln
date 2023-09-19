@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingSimulator", "TypingSimulator.csproj", "{B6B0B0CA-996C-41E3-9322-6B9B79625924}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExeSetup", "ExeSetup\ExeSetup.vdproj", "{6D6C5CFE-A1AD-42B6-A6EF-0A46BCA20FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B0B0CA-996C-41E3-9322-6B9B79625924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B0B0CA-996C-41E3-9322-6B9B79625924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B0B0CA-996C-41E3-9322-6B9B79625924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B0B0CA-996C-41E3-9322-6B9B79625924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6C5CFE-A1AD-42B6-A6EF-0A46BCA20FB8}.Debug|Any CPU.ActiveCfg = Debug
+		{6D6C5CFE-A1AD-42B6-A6EF-0A46BCA20FB8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218559D2-7660-4D06-90F2-EC63B03CE2C4}
+	EndGlobalSection
+EndGlobal
